@@ -74,6 +74,5 @@ I'm an **AI/ML Engineer** passionate about designing, training, and deploying in
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omar75566&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar75566&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
  
