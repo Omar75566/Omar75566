@@ -40,34 +40,36 @@ Hi! I'm Omar — an AI/ML Engineer passionate about designing, training, and dep
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
 
 ## 🚀 My Skills
+<h2 align="center">🚀 My Skills</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/openai.png" alt="OpenAI" width="40" height="40"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/langchain.png" alt="LangChain" width="40" height="40"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/langgraph.png" alt="LangGraph" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" /></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" alt="Hugging Face" /></a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/openai.png" width="40" height="40" alt="OpenAI" /></a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/langchain.png" width="40" height="40" alt="LangChain" /></a>
+  <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/langgraph.png" width="40" height="40" alt="LangGraph" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" /></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" /></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" height="40" alt="Seaborn" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://www.kubernetes.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="40" height="40" alt="Kubernetes" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" /></a>
+  <a href="https://cppreference.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a>
+  <a href="https://postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
